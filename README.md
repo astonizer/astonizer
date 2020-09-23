@@ -4,7 +4,8 @@
  I am a passionate full stack developer who loves to experiment with new things. Also I would like to contribute to other open source projects.
 
 ### Technologies I use
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="20" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" width="25" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="25" />
 
 [![Astel's github stats](https://github-readme-stats.vercel.app/api?username=astonizer&show_icons=true&theme=radical)](https://github.com/astonizer/github-readme-stats)
 
