@@ -3,6 +3,4 @@
 ### Astel Thottankara on this side
  I am a passionate full stack developer who loves to experiment with new things. Also I would like to contribute to other open source projects.
 
-[![Astel's github stats](https://github-readme-stats.vercel.app/api?username=astonizer&show_icons=true)](https://github.com/astonizer/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astonizer&layout=compact&show_icons=true)](https://github.com/astonizer/github-readme-stats)
+[![Astel's github stats](https://github-readme-stats.vercel.app/api?username=astonizer&show_icons=true)](https://github.com/astonizer/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astonizer&layout=compact&show_icons=true)](https://github.com/astonizer/github-readme-stats)
