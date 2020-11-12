@@ -1,7 +1,8 @@
 ## Namaste :pray:
 
 ## Astel Thottankara on this side
- I'm a passionate full stack developer mainly focussed around Javascript technologies and a competitive programmer, currently learning Full Stack Web Development focussed in MERN stack.
+ I'm a passionate full stack developer and a competitive programmer. <br>
+ 
  
  ### Programming Lamguages
 
