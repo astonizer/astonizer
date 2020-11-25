@@ -4,7 +4,7 @@
  I'm a passionate full stack developer and a competitive programmer. <br>
  
  
- ### Programming Lamguages
+ ### Programming Languages
 
  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' height='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astonizer&layout=compact&show_icons=true)](https://github.com/astonizer/github-readme-stats)
