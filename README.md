@@ -3,7 +3,7 @@
  I'm Astel, an ECE sophomore at SVNIT, Surat. <br>
  I'm a passionate full stack developer and a competitive programmer. <br><br>
  Building responsive, user friendly and quality websites are things which I enjoy doing.<br>
- I possess knowledge of python web frameworks, but my skills are mainly focussed around Javascript technologies.<br>
+ My skills are mainly focussed around Javascript technologies.<br>
  Also an open source developer, and would love to contribute to different projects.<br>
  
  
