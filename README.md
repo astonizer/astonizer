@@ -21,3 +21,17 @@
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/astel-thottankara-39289919b/)
  [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://www.instagram.com/_ash009_/)
  <a href="mailto:asteltb09@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
+ 
+ 
+ <br>
+ Our tiny little contributions are what shapes the future of the deveoper community. 
+ Hoping to gain a lot of knowledge, experience and build impactful products. 
+ <br>
+ Keep building! 
+ Keep learning!
+<br>
+<br>
+ <p align="center"> 
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/astonizer/count.svg" />
+</p>
