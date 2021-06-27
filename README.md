@@ -1,7 +1,7 @@
 <h1 align="center">Namaste :pray:</h1>
 
  <p align="center">
-    I'm Astel, an ECE sophomore at SVNIT, Surat. <br>
+    I'm Astel, a pre-final year ECE student at SVNIT, Surat. <br>
     I'm a passionate full stack developer and a competitive programmer. <br><br>
     Building responsive, user friendly and quality websites are things which I enjoy doing.<br>
     My skills are mainly focussed around Javascript technologies.<br>
